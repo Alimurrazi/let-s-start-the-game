@@ -1,0 +1,1 @@
+{"input_output": [{"num_encoder_tokens": 93, "num_decoder_tokens": 93, "max_encoder_seq_length": 63, "max_decoder_seq_length": 24}]}
